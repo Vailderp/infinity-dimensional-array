@@ -2,7 +2,7 @@
 infinity dimensional array C++ 14
 >Examlpe:
 
-`
+ `
 int main()
 {
 	int D1[] = {
@@ -24,4 +24,4 @@ int main()
     std::cout << *D3.data_ptr[0][0][1] << std::endl;
     std::cout << *D3.data_ptr[0][0][0] << std::endl;
 }
-`
+ `
