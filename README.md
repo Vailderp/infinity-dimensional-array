@@ -1,4 +1,5 @@
-# infinity-dimensional-array c++ 14
+# infinity-dimensional-array 
+>C++14
 >Examlpe:
 
 ````C++
