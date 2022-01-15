@@ -1,6 +1,7 @@
 # infinity-dimensional-array
 infinity dimensional array C++ 14
 >Examlpe:
+
 `int main()
 {
 	int D1[] = {
