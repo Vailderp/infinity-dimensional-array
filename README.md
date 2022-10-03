@@ -1,4 +1,7 @@
 # infinity-dimensional-array 
+
+We do not guarantee the error-free library!
+
 >C++14
 >Examlpe:
 
